@@ -1,0 +1,9 @@
+/mnt/hgfs/DevShare/Mako R1/MakoR1-MidiControl/build/Desktop-Release/CMakeFiles/MakoR1-MidiControl.dir
+/mnt/hgfs/DevShare/Mako R1/MakoR1-MidiControl/build/Desktop-Release/CMakeFiles/edit_cache.dir
+/mnt/hgfs/DevShare/Mako R1/MakoR1-MidiControl/build/Desktop-Release/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/DevShare/Mako R1/MakoR1-MidiControl/build/Desktop-Release/CMakeFiles/list_install_components.dir
+/mnt/hgfs/DevShare/Mako R1/MakoR1-MidiControl/build/Desktop-Release/CMakeFiles/install.dir
+/mnt/hgfs/DevShare/Mako R1/MakoR1-MidiControl/build/Desktop-Release/CMakeFiles/install/local.dir
+/mnt/hgfs/DevShare/Mako R1/MakoR1-MidiControl/build/Desktop-Release/CMakeFiles/install/strip.dir
+/mnt/hgfs/DevShare/Mako R1/MakoR1-MidiControl/build/Desktop-Release/CMakeFiles/MakoR1-MidiControl_autogen_timestamp_deps.dir
+/mnt/hgfs/DevShare/Mako R1/MakoR1-MidiControl/build/Desktop-Release/CMakeFiles/MakoR1-MidiControl_autogen.dir

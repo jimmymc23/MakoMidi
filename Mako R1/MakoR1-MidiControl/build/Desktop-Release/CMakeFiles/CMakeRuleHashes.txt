@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+dde036ee26444a0fcea166cbbd8a4255 CMakeFiles/MakoR1-MidiControl_autogen
+dde036ee26444a0fcea166cbbd8a4255 CMakeFiles/MakoR1-MidiControl_autogen_timestamp_deps
+1cb81ca25de662202f8015db67e2b2e9 MakoR1-MidiControl_autogen/timestamp
